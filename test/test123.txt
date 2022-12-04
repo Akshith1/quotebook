@@ -3,10 +3,13 @@ one 6565657
 kjgsdysdhafhdfahdsf
 hafdhfdhgs
 
+
 i am updating this text only in master branch alone
 updateding kjgggj
 
 I like green -Rj
+
+ practicing git commands this is new line in personal_quotes brnch:wqi
 
  practicing git commands this is new line in personal_quotes brnch:wqi
 
