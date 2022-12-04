@@ -2,5 +2,9 @@ ghhghghgh
 one 6565657
 kjgsdysdhafhdfahdsf
 hafdhfdhgs
+<<<<<<< HEAD
 i am updating this text only in master branch alone
 updateding kjgggj
+=======
+ practicing git commands this is new line in personal_quotes brnch:wqi
+>>>>>>> personal_quotes
